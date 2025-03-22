@@ -42,7 +42,6 @@ This project uses the following tools to implement end-to-end CI/CD and monitori
 - **Continuous Build and Test**: Maven and Jenkins ensure every code change is built and tested automatically
 - **Automated Deployments**: Jenkins pipelines deploy containerized applications via Docker to AWS
 - **Configuration Management**: Ansible manages consistent server setups and deployments
-- **Automated Testing**: Selenium ensures the deployed applications are tested continuously
 - **Monitoring and Reporting**: Prometheus gathers metrics, and Grafana visualizes system health and performance reports
 
 ## Future Enhancements
