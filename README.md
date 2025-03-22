@@ -33,7 +33,6 @@ This project uses the following tools to implement end-to-end CI/CD and monitori
 | **Jenkins**  | Continuous Integration and Continuous Deployment automation            |
 | **Docker**   | Containerization of microservices for consistent deployment environments |
 | **Ansible**  | Configuration management and environment setup automation              |
-| **Selenium** | Automated testing of web applications                                  |
 | **Terraform**| Infrastructure provisioning on AWS                                      |
 | **Prometheus**| Monitoring system for real-time infrastructure and application health   |
 | **Grafana**  | Visualization and reporting of metrics collected by Prometheus         |
